@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">BabyPhone</string>
+    <string name="settings_name">USTAWIENIA</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="music_app_name">MUZYKA</string>
 </resources>
